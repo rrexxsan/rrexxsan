@@ -95,8 +95,7 @@
 <section>
   <h2>Contact</h2>
   <div class="contact">
-    <div><a href="https://wa.me/nomorwaanda" target="_blank">WhatsApp Me</a></div>
-    <div><a href="mailto:emailanda@example.com">Email Me</a></div>
+    <div><a href="https://wa.me/6285217379608" target="_blank">WhatsApp Me</a></div>href="mailto:emailanda@example.com">Email Me</a></div>
     <div><a href="https://instagram.com/usernameanda" target="_blank">Instagram</a></div>
   </div>
 </section>
